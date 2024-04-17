@@ -1,0 +1,15 @@
+{
+  "short_name": "OpenWhatsApp",
+  "name": "Open In Whatsapp",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "240x240",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
