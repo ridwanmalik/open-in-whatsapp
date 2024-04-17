@@ -19,10 +19,6 @@ export default function RootLayout({
     <html lang="en">
       <Head>
         <link rel="manifest" href="/manifest.json" />
-        <meta
-          name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, shrink-to-fit=no"
-        />
       </Head>
       <body className={inter.className}>{children}</body>
     </html>
