@@ -16,6 +16,9 @@ const Home = () => {
 
   return (
     <div className="h-screen w-screen flex justify-center items-center flex-col gap-3">
+      <p>
+        Input your text
+      </p>
       <input
         type="text"
         id="number"
